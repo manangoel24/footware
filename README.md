@@ -1,5 +1,4 @@
-# footware 
-# 👟 AI Shoe Advisor (Streamlit App)
+ # 👟 AI Shoe Advisor
 
 This app helps users find the perfect pair of shoes based on comfort, purpose, durability, and personal style — powered by OpenAI.
 
