@@ -39,4 +39,3 @@ The AI will respond with a custom recommendation, explain why, and show a shoe c
 
 ---
 
-Built with 💬 by [Your Name or Team]
